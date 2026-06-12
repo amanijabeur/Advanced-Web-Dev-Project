@@ -5,7 +5,7 @@ A personal website built with React and Vite for my Advanced Web Development cou
 ## Features
 
 - Personal intro / About Me section
-- Story search — filter a list of stories in real time by title
+- Story search: filter a list of stories in real time by title
 
 ## Tech Stack
 
