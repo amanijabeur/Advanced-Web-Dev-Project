@@ -1,6 +1,6 @@
 # Advanced Web Dev Project
 
-A personal website built with React and Vite for my Advanced Web Development course at TBS yfor the academic year 2024/2025.
+A personal website built with React and Vite for my Advanced Web Development course at TBS for the academic year 2024/2025.
 
 ## Features
 
